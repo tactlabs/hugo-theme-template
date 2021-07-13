@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/python/</loc>
+    <lastmod>2021-07-13T19:38:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docker/</loc>
+    <lastmod>2021-07-13T19:38:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/</loc>
+    <lastmod>2021-07-13T19:37:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-07-13T19:40:39+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/python/programs/</loc>
+    <lastmod>2021-07-13T19:40:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/faq/faq/</loc>
+    <lastmod>2021-07-13T19:40:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docker/images/</loc>
+    <lastmod>2021-07-13T19:40:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docker/containers/</loc>
+    <lastmod>2021-07-13T19:40:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docker/networks/</loc>
+    <lastmod>2021-07-13T19:40:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

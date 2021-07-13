@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TACT LABS</title>
+    <link>http://example.org/</link>
+    <description>Recent content on TACT LABS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 19:40:39 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FLASK</title>
+      <link>http://example.org/python/programs/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>http://example.org/python/programs/</guid>
+      <description>BEST WEB FRAMEWORK EVER</description>
+    </item>
+    
+    <item>
+      <title>FPR WEBSITE</title>
+      <link>http://example.org/faq/faq/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>http://example.org/faq/faq/</guid>
+      <description>FAQ
+  When did you introduce cryptography?
+Ans: 27/06/2021
+  When did you introduce pure microservices? Ans: 22/06/2021
+  Who worked on the microservices? Ans: Ajesh and Prakash
+  Who worked on basic backend? Ans: Gokul and Sameena
+  Who worked on course related features? Ans: Divya, Ajesh, Prakash, Vedha
+  who worked on google login? Ans: Hari
+  Who worked on github login?</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>http://example.org/docker/images/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:39 +0530</pubDate>
+      
+      <guid>http://example.org/docker/images/</guid>
+      <description>enter stuff here</description>
+    </item>
+    
+    <item>
+      <title>Containers</title>
+      <link>http://example.org/docker/containers/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:26 +0530</pubDate>
+      
+      <guid>http://example.org/docker/containers/</guid>
+      <description>enter stuff here</description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>http://example.org/docker/networks/</link>
+      <pubDate>Tue, 13 Jul 2021 19:40:18 +0530</pubDate>
+      
+      <guid>http://example.org/docker/networks/</guid>
+      <description>enter stuff here</description>
+    </item>
+    
+  </channel>
+</rss>
