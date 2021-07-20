@@ -18,7 +18,11 @@ Note: The repo must be public.
 
 - Update branch as master - docs - save
 
-- Wait for the site to be published and open the link to view
+- Copy the link and update it in config.toml
+
+- git add, commit and push and run hugo command to update
+
+- Wait for the site to be published in Pages( in repo) and open the link to view
 
 --------------------------------------------------------------------
 
