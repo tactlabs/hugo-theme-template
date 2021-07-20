@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TACT LABS</title>
-    <link>https://talha-altair.github.io/test-site/categories/</link>
+    <link>https://tactlabs.github.io/hugo-theme-template/categories/</link>
     <description>Recent content in Categories on TACT LABS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://talha-altair.github.io/test-site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tactlabs.github.io/hugo-theme-template/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
