@@ -1,16 +1,11 @@
 Hugo Deployment 
 ----------------
 
-- Run to build and view it loacally
-hugo server
+- Run to build and view it loacally : hugo server
 
-- Run after updating any change
-hugo
+- Run after updating any change : hugo
 
-- Commit and push in the respective repo
-git add .
-git commit -m
-git push
+- Commit and push in the respective repo : git add . , git commit -m , git push
 
 - Go to the respective repo - Settings - Pages
 
