@@ -1,4 +1,4 @@
-baseURL = "https://talha-altair.github.io/test-site/"
+baseURL = "https://tactlabs.github.io/hugo-theme-template/"
 languageCode = "en-us"
 title = "TACT LABS"
 PublishDir="./docs"
