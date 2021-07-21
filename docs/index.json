@@ -56,6 +56,13 @@
 	"content": "UI works\n"
 },
 {
+	"uri": "https://tactlabs.github.io/hugo-theme-template/ui/html/",
+	"title": "HTML AND CSS",
+	"tags": [],
+	"description": "",
+	"content": "UI Basics\n"
+},
+{
 	"uri": "https://tactlabs.github.io/hugo-theme-template/docker/images/",
 	"title": "Images",
 	"tags": [],
